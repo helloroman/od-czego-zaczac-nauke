@@ -1,15 +1,15 @@
 
-Portale
-* bezpłatne 
+## Portale
+* Bezpłatne 
 	* Freecodecamp – https://www.freecodecamp.org/
 	* Codecademy – https://www.codecademy.com/
-* płatne 
+* Płatne 
 	* Team Treehouse – https://teamtreehouse.com/
 	* Frontend Masters – https://frontendmasters.com
 		* Zniżka dla PL – https://frontendmasters.com/enroll/indv-monthly/?discount=internationalmonthly
 
 
-* Osoby 
+## Osoby 
 	* Wes Bos – https://wesbos.com/
 	* Scott Tolinski – https://www.leveluptutorials.com/
 	* The Net Ninja – https://www.thenetninja.co.uk/
@@ -19,28 +19,28 @@ Portale
 	* Max Schwarzmuller – https://www.udemy.com/user/maximilian-schwarzmuller/
 	* Steven Grider – https://www.udemy.com/user/sgslo/
 
-* Podcasty 
+## Podcasty 
 	* Complete developer podcast – https://completedeveloperpodcast.com/
 	* Syntax (Wes Bos & Scott Tolinski) – https://syntax.fm/
 	* Frontend Happy Hour – https://frontendhappyhour.com/
 
-* Newslettery 
+## Newslettery 
 	* Frontend Focus – https://frontendfoc.us/
 	* JavaScript Weekly – https://javascriptweekly.com/
 	* Codrops Team Collective – https://tympanus.net/codrops/
 
-* Grupy Na Fejsie 
+## Grupy Na Fejsie 
 	* HTML CSS  JS pierwsze kroki – https://www.facebook.com/groups/742940452405327/
 
-* Strony 
+## Strony 
 	* MDN – https://developer.mozilla.org/en-US/
 	* Stack Overflow – https://stackoverflow.com/
-	* DevDocs 
-	* CSS Tricks
+	* DevDocs – https://devdocs.io/
+	* CSS Tricks – https://css-tricks.com/
 
-* Gry 
-	* CSS Dinner
-	* Flexbox Froggy
-	* CSS Grid Garden 
-	* FlexBox Zombies
-	* CodeWars 
+## Gry 
+	* CSS Dinner – https://flukeout.github.io/
+	* Flexbox Froggy – https://flexboxfroggy.com/
+	* CSS Grid Garden – https://cssgridgarden.com/ 
+	* FlexBox Zombies – https://mastery.games/p/flexbox-zombies
+	* CodeWars – https://www.codewars.com
